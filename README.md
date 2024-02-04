@@ -1,7 +1,7 @@
 # SDXL-SAM-HEADSHOT-CREATOR
 This project combines the power of Segment Anything Model by facebook and the power of inpainting in Stable diffusion V2 to create professional headshots for free 
 
-https://colab.research.google.com/github/pranavsrinivasa/SDXL-SAM-HEADSHOT-CREATOR/blob/main/SDXL-SAM.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/github/pranavsrinivasa/SDXL-SAM-HEADSHOT-CREATOR/blob/main/SDXL-SAM.ipynb)]
 
 # Overview:
 
