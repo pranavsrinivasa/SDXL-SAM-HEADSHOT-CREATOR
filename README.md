@@ -15,6 +15,8 @@ SDXL-SAM-HEADSHOT-CREATOR seamlessly integrates Facebook's Segment Anything Mode
 
 -Professional Results: Merges segmentation and inpainting to generate refined and professional-looking headshots.
 
+![Capture](https://github.com/pranavsrinivasa/SDXL-SAM-HEADSHOT-CREATOR/assets/126983069/de3529cd-2e58-469b-b196-e8c5b6daa782)
+
 # Usage: 
 - Upload a square size image
 - Click on the invert mask button(to select everything else)
